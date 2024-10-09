@@ -1,0 +1,28 @@
+{
+    "FunctionName": "myfirst-cli",
+    "FunctionArn": "arn:aws:lambda:us-east-1:201807860611:function:myfirst-cli",
+    "Runtime": "nodejs16.x",
+    "Role": "arn:aws:iam::201807860611:role/lambda-example",
+    "Handler": "index.handler",
+    "CodeSize": 331,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 128,
+    "LastModified": "2022-05-09T21:59:54.632+0000",
+    "CodeSha256": "aO9AVNE0BKDgQIoC1LMOIRI7hVXDid7CH1CcHu5THoc=",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "710ef8d1-fa66-47e1-834a-fdb544d444af",
+    "State": "Pending",
+    "StateReason": "The function is being created.",
+    "StateReasonCode": "Creating",
+    "PackageType": "Zip",
+    "Architectures": [
+        "x86_64"
+    ],
+    "EphemeralStorage": {
+        "Size": 512
+    }
+}
